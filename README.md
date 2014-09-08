@@ -30,4 +30,4 @@ function getFittingSkins()
 end
 ```
 
-and export it.
+to `g_shopinfo.lua` and export it.
